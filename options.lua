@@ -2,6 +2,6 @@
 -- example: https://github.com/AstroNvim/user_example/blob/main/options.lua
 return {
   opt = {
-    wrap = true, -- sets vim.opt.wrap
+    wrap = false, -- sets vim.opt.wrap
   }
 }
